@@ -1,0 +1,26 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Export_Flutter_20230519021057",
+      "request": "launch",
+      "program": "lib/login.dart",
+      "type": "dart"
+    },
+    {
+      "name": "Export_Flutter_20230519021057 (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/riwayat.dart"
+    },
+    {
+      "name": "Export_Flutter_20230519021057 (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
